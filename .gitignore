@@ -1,0 +1,18 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build
+bin/
+obj/
+Debug/
+Release/
+
+# Others
+*.log
+*.cache
+*.dll
+*.exe
+*.db
+appsettings.Development.json
